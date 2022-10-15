@@ -121,6 +121,7 @@ a {
     width:100%;
     height:auto;
     padding: 1%;
+    border-radius: 30px;
 }
 
 .row {
@@ -208,8 +209,39 @@ a {
     font-size:30px;
 }
 
+
+ /* Responsivness for tablets and medium sized screens*/
+ @media screen and (max-width: 768px) {
+
+    .image1 {
+        height: 687px;
+        
+    }
+
+    .column1 {
+        width: 50%;
+    }
+    
+    .column2 {
+        float: unset;
+        width: 100%;
+        padding: unset;
+    }
+
+    .paragraph1 {
+        Line-height: 140%;
+        font-size: 1.1rem;
+        padding: 7px;
+    }
+
+    .heading1 {
+        padding-top: 10px;
+    }
+
+
+ }
    
-  /* logo and menu responsivness for small screens*/
+  /* Responsivness for small screens*/
    @media screen and (max-width: 640px) {
 
     #logo {
@@ -273,4 +305,6 @@ a {
     }
     
     }
+
+
 
