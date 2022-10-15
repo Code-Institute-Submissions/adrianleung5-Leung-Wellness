@@ -40,6 +40,9 @@ Frequent User Goals
 - The about us section of the webisite was inspired by [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
 - The sign up and footer section of the website was inspired by  [Codes Coders Coffeehouse](https://codeinstitute.net/ie/)
 
+## Site Structure
+Leung Wellness is a 1 page website with three. The home page is the default loading page. the other pages are accessible from the navigation menu at all times.
+
 ## Features
 Navigation
 - At the top of the page , the client logo is dsplayed in the top left corner as "Leung Wellness". This links to the top of the page
