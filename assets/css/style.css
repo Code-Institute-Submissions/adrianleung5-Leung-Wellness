@@ -158,6 +158,17 @@ a {
    .form-section{
     background-color: #252525;
    }
+
+   .footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: white; /*Changed footer color to white*/
+	color: black;
+	text-align: center;
+	font-family: Merriweather;
+}
+
    
   /* logo and menu responsivness for small screens*/
    @media screen and (max-width: 640px) {
