@@ -136,7 +136,22 @@ a {
        line-height: 150%;
    }
    
-    /* logo and menu responsivness for small screens*/
+   .second-list {
+    float: right;
+    padding-right: 250px;
+    font-size:xx-large;
+
+   }
+   .first-list {
+    float: left;
+    padding-left: 250px;
+    Font-size:xx-large;
+   }
+
+   
+
+
+  /* logo and menu responsivness for small screens*/
    @media screen and (max-width: 640px) {
 
     #logo {
@@ -183,37 +198,3 @@ a {
         margin-left: auto;
         margin-right: auto;
        }
-   }
-   .second-list {
-    float: right;
-    padding-right: 250px;
-    font-size:xx-large;
-
-   }
-   .first-list {
-    float: left;
-    padding-left: 250px;
-    Font-size:xx-large;
-
-
-   }
-
-   .sign-up-form{
-    padding: 50px;
-    text-align: center;
-    font-size: x-large;
-    color: rgb(241, 234, 234);
-   }
-   .form-section{
-    background-color: #252525;
-   }
-   .footer {
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	background-color: white; /*Changed footer color to white*/
-	color: black;
-	text-align: center;
-	font-family: verdana;
-}
-
