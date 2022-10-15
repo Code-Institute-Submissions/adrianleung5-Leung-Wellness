@@ -159,3 +159,13 @@ a {
         padding: 5px;
         margin-right: 0;
     }
+
+     /* Responsivness for text box */
+     .text-block {
+        position: unset;
+        width: 100%;
+      }
+
+      .button1{
+        padding: 3%;
+      }
