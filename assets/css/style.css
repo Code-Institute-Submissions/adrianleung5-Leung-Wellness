@@ -110,13 +110,14 @@ a {
 .row {
     display: flex;
 }
-
+ /* Image 1 */
 .column1 {
  float: left;
  width: 25%;
  padding: 2%;  
 }
-
+ 
+/* Content for about us section */
 .column2{
     float: right;
     width: 75%;
@@ -135,7 +136,8 @@ a {
        padding-top: 1.5%;
        line-height: 150%;
    }
-   
+
+   /* Content list */
    .second-list {
     float: right;
     padding-right: 250px;
@@ -148,6 +150,7 @@ a {
     Font-size:xx-large;
    }
 
+   /* Sign up form */
    .sign-up-form{
     padding: 50px;
     text-align: center;
@@ -159,6 +162,7 @@ a {
     background-color: #252525;
    }
 
+   /* Footer with social media links */
    .footer {
 	position: fixed;
 	bottom: 0;
