@@ -137,3 +137,18 @@ a {
    
     /* logo and menu responsivness for small screens*/
    @media screen and (max-width: 640px) {
+
+    #logo {
+        float: none;
+        text-align: center;
+        font-size: unset;
+        line-height:35px;
+        margin-left: 0;
+    }
+
+    #menu {
+        float: none;
+        text-align: center;
+        line-height: 45px;
+        font-size: unset;
+    }
