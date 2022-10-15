@@ -35,6 +35,11 @@ Frequent User Goals
 - As a frequent user, I would like to see if there are new classes available on the website
 - As a frequent user, I would like to see if there is any changes in prices or any new membership options.
 
+## Initial Concept
+- The navigation aspect of the website was inspured by [ALO moves.com](https://www.alomoves.com/)
+- The about us section of the webisite was inspired by [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
+- The sign up and footer section of the website was inspired by  [Codes Coders Coffeehouse](https://codeinstitute.net/ie/)
+
 ## Features
 Navigation
 - At the top of the page , the client logo is dsplayed in the top left corner as "Leung Wellness". This links to the top of the page
