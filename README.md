@@ -35,3 +35,9 @@ Frequent User Goals
 - As a frequent user, I would like to see if there are new classes available on the website
 - As a frequent user, I would like to see if there is any changes in prices or any new membership options.
 
+## Features
+Navigation
+- At the top of the page , the client logo is dsplayed in the top left corner as "Leung Wellness". This links to the top of the page
+- The navigation links on the top right corner consists of About us, class info and Sign up. These all link to different sections of the page
+- The font style for this website was inspired from [here](https://www.fontpair.co/all)
+- The naviation clearly illiustrates the clients logo and the different sections of the website
