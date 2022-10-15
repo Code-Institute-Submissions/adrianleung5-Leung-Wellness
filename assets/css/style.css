@@ -148,9 +148,17 @@ a {
     Font-size:xx-large;
    }
 
+   .sign-up-form{
+    padding: 50px;
+    text-align: center;
+    font-size: x-large;
+    color: rgb(241, 234, 234);
+   }
    
-
-
+   .form-section{
+    background-color: #252525;
+   }
+   
   /* logo and menu responsivness for small screens*/
    @media screen and (max-width: 640px) {
 
