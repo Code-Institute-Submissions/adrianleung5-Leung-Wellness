@@ -133,6 +133,7 @@ a {
        text-align: center;
        padding-top: 1.5%;
        line-height: 150%;
-       
    }
    
+    /* logo and menu responsivness for small screens*/
+   @media screen and (max-width: 640px) {
