@@ -93,6 +93,8 @@ a {
     cursor: pointer;
     border-radius: 25%;
     background-color: antiquewhite;
+    margin-left: 35%;
+      
   }
 
   .button1:hover {
@@ -129,6 +131,12 @@ a {
        font-weight: 900;
        text-align: center;
    }
+
+   .heading2 {
+    font-size: 1vw; 
+    font-weight: 900;
+    text-align: center;
+}
    
    .paragraph1 {
        font-size: x-large;
@@ -136,12 +144,6 @@ a {
        padding-top: 1.5%;
        line-height: 150%;
    }
-
-   .heading2 {
-    font-size: 1vw; 
-    font-weight: 900;
-    text-align: center;
-
 
    /* Content list */
    .second-list {
@@ -213,7 +215,7 @@ a {
 
       .button1{
         padding: 3%;
-      }
+        
     
       /* Fixed image width in column 1 to full screen on smaller devices */
       .row {
