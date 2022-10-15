@@ -164,6 +164,7 @@ a {
     text-align: center;
     font-size: x-large;
     color: rgb(241, 234, 234);
+    margin-bottom: 2%;
    }
    
    .form-section{
@@ -184,7 +185,7 @@ a {
 .fab-fa-instagram{
     font-size:30px;
 }
-}
+
    
   /* logo and menu responsivness for small screens*/
    @media screen and (max-width: 640px) {
@@ -220,7 +221,6 @@ a {
       .button1{
         padding: 3%;
         
-    
       /* Fixed image width in column 1 to full screen on smaller devices */
       .row {
         display: unset;
