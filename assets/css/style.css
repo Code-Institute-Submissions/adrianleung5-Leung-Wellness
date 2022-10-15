@@ -137,6 +137,12 @@ a {
        line-height: 150%;
    }
 
+   .heading2 {
+    font-size: 1vw; 
+    font-weight: 900;
+    text-align: center;
+
+
    /* Content list */
    .second-list {
     float: right;
