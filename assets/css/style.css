@@ -64,3 +64,19 @@ a {
     position: relative; 
     display: inline-block;
 }
+
+.responsive {
+    width: 100%;
+    height: auto;
+
+}
+
+/* Text box in hero image */
+
+.text-block {
+    position: absolute;
+    top: 34%;
+    background-color: white;
+    padding: 2.5%;
+   
+  }
