@@ -230,7 +230,7 @@ a {
     #menu li {
         float: none;
         display: inline-block;
-        padding: 5px;
+        padding: 0.313rem;
         margin-right: 0;
     }
 
@@ -254,5 +254,23 @@ a {
         display: block;
         margin-left: auto;
         margin-right: auto;
-       }
     }
+    .column2 {
+        float: unset;
+        width: 100%;
+        padding: unset;
+
+    }
+    .paragraph1 {
+        line-height: 140%;
+        padding: 3%;
+        padding-top: none;
+    }
+
+    .image1 {
+      height:260px;
+        
+    }
+    
+    }
+
