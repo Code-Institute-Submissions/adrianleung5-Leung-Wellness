@@ -6,6 +6,16 @@
     border: none;
 }
 
+body {
+    font-family: Merriweather, work Sans;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+html,body{
+    overflow-x: hidden;
+    }
+
 /* headings and logo */
 
 h1, h2 {
@@ -73,6 +83,8 @@ a {
 
 }
 
+
+
 /* Text box in hero image */
 
 .text-block {
@@ -81,19 +93,21 @@ a {
     background-color: white;
     padding: 2.5%;
     border-radius:6%;
-    border-radius: 6%;
     width: 25%;
     left: 2.5%;
+    text-align: center;
+
   }
 
   .button1{
     padding: 5%;
     text-align: center;
-    font-size: 1vw;
+    font-size: 0.938rem;
     cursor: pointer;
     border-radius: 25%;
-    background-color: antiquewhite;
-    margin-left: 35%;
+    background-color: #52527a;
+    color:white;
+   
       
   }
 
@@ -127,22 +141,24 @@ a {
    }
    
    .heading1 {
-       font-size: 2vw; 
+       font-size: 1.25rem; 
        font-weight: 900;
        text-align: center;
    }
 
    .heading2 {
-    font-size: 1vw; 
+    font-size: 1rem; 
     font-weight: 900;
     text-align: center;
 }
    
    .paragraph1 {
-       font-size: x-large;
+       font-size: 1.123rem;
        text-align: center;
        padding-top: 1.5%;
        line-height: 150%;
+       font-weight: bold;
+       
    }
 
    /* Content list */
@@ -220,7 +236,7 @@ a {
 
       .button1{
         padding: 3%;
-        
+      }
       /* Fixed image width in column 1 to full screen on smaller devices */
       .row {
         display: unset;
@@ -233,3 +249,4 @@ a {
         margin-left: auto;
         margin-right: auto;
        }
+    }
