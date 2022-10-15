@@ -34,3 +34,4 @@ Returning User Goals
 Frequent User Goals
 - As a frequent user, I would like to see if there are new classes available on the website
 - As a frequent user, I would like to see if there is any changes in prices or any new membership options.
+
