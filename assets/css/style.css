@@ -175,3 +175,11 @@ a {
         display: unset;
     }
     
+    .column1 {
+        float: none;
+        width: 95%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+       }
+   }
