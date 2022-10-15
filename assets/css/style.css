@@ -98,9 +98,41 @@ a {
     background-color:aquamarine; 
    }
  
-   /* About us Section */.column1 {
-    float: left;
-    width: 25%;
-    padding: 2%;  
+   /* About us Section */
+   
+   .image1 {
+    width:100%;
+    height:auto;
+    padding: 1%;
 }
+
+.row {
+    display: flex;
+}
+
+.column1 {
+ float: left;
+ width: 25%;
+ padding: 2%;  
+}
+
+.column2{
+    float: right;
+    width: 75%;
+    padding: 2%;  
+   }
+   
+   .heading1 {
+       font-size: 2vw; 
+       font-weight: 900;
+       text-align: center;
+   }
+   
+   .paragraph1 {
+       font-size: 1vw;
+       text-align: center;
+       padding-top: 1.5%;
+       line-height: 150%;
+       
+   }
    
