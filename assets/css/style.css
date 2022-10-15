@@ -98,9 +98,9 @@ a {
     background-color:aquamarine; 
    }
  
-   /* About us Section */
-   .image1 {
-    width:100%;
-    height:auto;
-    padding: 1%;
+   /* About us Section */.column1 {
+    float: left;
+    width: 25%;
+    padding: 2%;  
 }
+   
