@@ -20,6 +20,7 @@ h1, h2 {
     font-size: 125%;
     margin-left: 1.5rem;
     font-weight: bold;
+    
 }
 
 /* navigation links */
@@ -78,5 +79,8 @@ a {
     top: 34%;
     background-color: white;
     padding: 2.5%;
-   
+    border-radius:6%;
+    border-radius: 6%;
+    width: 25%;
+    left: 2.5%;
   }
