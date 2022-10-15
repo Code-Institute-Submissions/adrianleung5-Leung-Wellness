@@ -265,7 +265,7 @@ a {
 }
 
 /* Responsivness for large screens*/
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1200px) {
 
     .image1 {
         height: 687px;
