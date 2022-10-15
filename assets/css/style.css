@@ -57,3 +57,10 @@ a {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* hero image */
+
+.container{
+    position: relative; 
+    display: inline-block;
+}
