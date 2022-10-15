@@ -120,7 +120,6 @@ a {
    .image1 {
     width:100%;
     height:auto;
-    padding: 1%;
     border-radius: 30px;
 }
 
@@ -167,32 +166,74 @@ a {
     line-height: 45px;
    }
 
+   /*  Sign up Field */
+.signup__field {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+    margin-bottom: 50px;
+    align-items: center;
+}
 
-   /* Content list */
-   .second-list {
-    float: right;
-    padding-right: 250px;
-    font-size:xx-large;
+.signup__field:before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    width: 0px;
+    height: 2px;
+    bottom: 0;
+    right: 50%;
+    transform: translateX(-50%);
+    transition: all 0.4s ease;
+}
 
-   }
-   .first-list {
-    float: left;
-    padding-left: 250px;
-    Font-size:xx-large;
-   }
+.signup__field:hover:before {
+    width: 100%;
+}
 
-   /* Sign up form */
-   .sign-up-form{
-    padding: 50px;
+/*  Input */
+.signup__input {
     text-align: center;
-    font-size: x-large;
-    color: rgb(241, 234, 234);
-    margin-bottom: 2%;
-   }
-   
-   .form-section{
-    background-color: #252525;
-   }
+    width: 20%;
+    height: 100%;
+    font-size: 1.2rem;
+    padding: 10px 2px 0;
+    border-bottom: 2px solid white;
+    border-radius: 15px;
+}
+
+/*  Label */
+.signup__label {
+    color: white;
+    position: absolute;
+    top: 67%;
+    transform: translateY(45%);
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+}
+
+
+/*  Sign Up Button */
+.signup-btn {
+    background: #52527a;
+    color: white;
+    padding: 12px 0;
+    font-size: 1.2rem;
+    border-radius: 25px;
+    cursor: pointer;
+    width: 20%;
+}
+
+.signup-btn:hover {
+    background: #4b111b;
+}
+
+.form-style {
+    background-color: grey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
    /* Footer with social media links */
    .footer {
@@ -205,9 +246,6 @@ a {
 	font-family: Merriweather;
 }
 
-.fab-fa-instagram{
-    font-size:30px;
-}
 
 
  /* Responsivness for tablets and medium sized screens*/
