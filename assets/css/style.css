@@ -153,13 +153,19 @@ a {
 }
    
    .paragraph1 {
-       font-size: 1.123rem;
+       font-size: 1.35rem;
        text-align: center;
        padding-top: 1.5%;
-       line-height: 150%;
+       line-height: 190%;
        font-weight: bold;
        
    }
+
+   .paragraph1 li {
+    list-style-type: none;
+    line-height: 45px;
+   }
+
 
    /* Content list */
    .second-list {
