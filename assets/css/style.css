@@ -181,6 +181,10 @@ a {
 	font-family: Merriweather;
 }
 
+.fab-fa-instagram{
+    font-size:30px;
+}
+}
    
   /* logo and menu responsivness for small screens*/
    @media screen and (max-width: 640px) {
