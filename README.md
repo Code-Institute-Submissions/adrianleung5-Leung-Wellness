@@ -18,3 +18,6 @@ The website aims to promote Leungs wellness hub as an a easy way for people to l
 - A sign up form for users to subscribe and join the virtual wellness hub
 - Links to the clients various social media to enable visitors to find more information
 - A bried explanation of the different types of classes on available to members
+
+## Target Audience
+Sport people, fitness enthuasists, mental health , people working from home, people from all age groups, parents.
