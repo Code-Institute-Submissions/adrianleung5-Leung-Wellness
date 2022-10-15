@@ -28,13 +28,13 @@
                 <div id="menu">
                     <ul>
                         <li>
-                            <a href="index.html"> About Us </a>
+                            <a href="index.html#about-us"> About Us </a>
                         </li>
                         <li>
-                            <a href="#"> Classes info </a>
+                            <a href="index.html#about-us">Classes info </a>
                         </li>
                         <li>
-                            <a href="#"> Sign up </a>
+                            <a href="index.html#sign-up"> Sign up </a>
                         </li>
                     </ul>
                 </div>
@@ -48,12 +48,12 @@
                 <br>
                 <h2 class="heading2">Escape from everyday stress through our courses</h2>
                 <br>
-                <button class="button1">Join Now</button>
+                <button class="button1" onclick="document.getElementById('sign-up').scrollIntoView();">Join Now</button>
             </div>
         </div>
     </Section>
 
-    <Section>
+    <Section id="about-us">
         <div class="row">
             <div class="column1">
                 <img src="assets/images/image1.jpg" alt="meditation" class="responsive image1">
@@ -119,42 +119,24 @@
 </section>
 
     
-           <!-- Sign up form -->
-    <!-- <div class = form-section>
-        <Section>
-            <div class="sign-up-form">
-                <h1 style="color: white">Sign Up</h1>
-                <form action="https://formdump.codeinstitute.net" method="POST">
-                    <label for="uname">Username:</label><br>
-                    <input type="text" id="uname" name="uname" autofocus><br>
-                    <label for="email">Email:</label><br>
-                    <input type="email" id="email" name="uemail"> <br>
-                    <label for="pword">Password:</label><br>
-                    <input type="text" id="pw" name="pw"><br>
-                    <label for="pword">Confirm Password:</label><br>
-                    <input type="text" id="pw" name="pw"><br>
-                    <input type="submit" value="Register">
-    
-                </form>
-    
-            </div>
-        </Section>
-    </div>
-    <Footer with social media links -->
-    <!-- <Section> 
+    <!-- Footer with social media links -->
+    <Section> 
         <div class="footer">
-            <a href="https://instagram.com" target="_blank" rel="noopener" class="fab fa-instagram" style="font-size: 30px">
+            <a href="https://instagram.com" target="_blank" rel="noopener" class="fab fa-instagram">
             </a>
-            <a href="https://facebook.com" target="_blank" rel="noopener" class="fab fa-facebook" style="font-size: 30px">
+            <a href="https://facebook.com" target="_blank" rel="noopener" class="fab fa-facebook">
             </a>
-            <a href="https://twitter.com"  target="_blank" rel="noopener" class="fab fa-twitter" style="font-size: 30px">
+            <a href="https://twitter.com"  target="_blank" rel="noopener" class="fab fa-twitter">
             </a>
             <br>
-            <a href="adrianleung5@gmail.com" target="_blank">
-               <h1> Contact Us Here </h1>
-            </a>
+            
         </div>
-    </Section> -->
+        <div class="contact-us"> 
+            <a href="adrianleung5@gmail.com" target="_blank">
+                <h3> Contact Us Here </h3>
+             </a>
+        </div>
+    </Section>
 
 
             

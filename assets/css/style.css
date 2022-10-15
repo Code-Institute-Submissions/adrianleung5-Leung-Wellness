@@ -241,14 +241,55 @@ a {
 
 /* Footer with social media links */
 .footer {
-    position: fixed;
-    bottom: 0;
     width: 100%;
     background-color: white;
     /*Changed footer color to white*/
     color: black;
     text-align: center;
     font-family: Merriweather;
+    font-size: 50px;
+}
+.footer a {
+    padding: 5px;
+
+}
+
+.contact-us {
+    font-size: 30px;
+    text-align: center;
+}
+
+.contact-us a {
+    color:black;
+}
+/* Responsivness for large screens*/
+@media screen and (max-width: 1024px) {
+
+ .image1 {
+        height: 687px;
+ }
+
+ .column1 {
+    width: 50%;
+}
+
+.column2 {
+    float: unset;
+    width: 100%;
+    padding: unset;
+}
+
+.paragraph1 {
+    Line-height: 140%;
+    font-size: 1.1rem;
+    padding: 7px;
+}
+
+.heading1 {
+    padding-top: 10px;
+}
+
+
 }
 
 
@@ -365,4 +406,12 @@ a {
         width: 45%;
     }
 
+    .contact-us {
+        font-size: 15px;
+    }
+
+   .footer {
+    font-size: 30px;
+  
+   }
 }
