@@ -5,3 +5,19 @@
     padding: 0;
     border: none;
 }
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Merriweather, work;
+    text-transform: uppercase;
+    letter-spacing: 0.25rem;
+    color: #252525;
+}
+
+#logo {
+    float: left;
+    font-size: 125%;
+    margin-left: 1.5rem;
+    font-weight: bold;
+}
