@@ -6,6 +6,7 @@
 
 Leung Wellness serves as an online escape route from everyday stress. The webste serves to enable
 like-minded people to relax and invest into their own wellness from the comfort of their own home. The website is open to everyone,from a complete beginer to a experienced practioner and enables them to gain access to various onlne classes through memberships.
+
 ![Responsive](assets/images/responsive.png "Responsive")
 
 ## Key Project Goals
@@ -27,6 +28,7 @@ The website aims to promote Leungs wellness hub as an a easy way for people to l
 Sport people, fitness enthuasists, mental health , people working from home, people from all age groups, parents.
 
 # UX user Experience
+
 ## First Time Visitor Goals
 -  As a first-time visitor, I would like to understand the website's objective and understand to obtain further information as simply as possible. 
 - As a first time visitor, I would like to be able to navigate through the website easily and without any problems.
@@ -58,23 +60,35 @@ Navigation
 - The font style for this website was inspired from [here](https://www.fontpair.co/all)
 - The naviation clearly illiustrates the clients logo and the different sections of the website
 
+![Logo and nav](assets/images/logo_nav_link.png "Logo and nav")
+
 # Text block
 - The text block illistates the purpose of the website by stating that it is a virtual wellnesshub based in Dublin
 - The textblock contains a button which is linked to the sign up form section of the website.
-- The button on the text block will also change to 
+- The button on the text block will also change to baby pink when the button is hovered on.
+- The Text block is positoned over a section of the hero image.
+
+![text block and hero image](assets/images/textblock_background.png "text block and hero image")
 
 # About us Section
 - The about section gives us a brief explanation of what the hub offers its members. It means the cost of membership and provides a contact email address.
 - The about us section shows users what classes and services area abailable to memmbers in a list. - The design of the list of availble classes with the tick boxes was   taken from [Toptal.com](https://www.toptal.com/designers/htmlarrows/symbols/heavy-check-mark)
+- The about us also has an image on the left of a person in medidation pose. This is highly aligned with the theme of the website.
+
+![about us section](assets/images/aboutus.png "about us section")
 
 # Sign up form
-- The form in the sign-up area asks users for information so they can subscribe to the Wellness hub. Once the fill in the relevant information they may enter their details to the client by pressing the "join now button"
-- The form requires users to create a username, enter their email and to create a password. Users may not be able to select the join now button unless these fields are filled
+- The form in the sign-up area asks users for information so they can subscribe to the Wellness hub. Once the fill in the relevant information they may enter their details to the client by pressing the "join now button".
+- The form requires users to create a username, enter their email and to create a password. Users may not be able to select the join now button unless these fields are filled.
 - Once the user selects clicks the sign up button they will be redirected to an external page which informs them that they have signed up for membership.
 
+![sign up](assets/images/signup.png "sign up")
+
 # The contact section
-- The contact Section provides social media icons to enable website users to locate the clients social media pages
+- The contact Section provides social media icons to enable website users to locate the clients social media pages.
 - The contact us section is essential as it clearly illustrates to the website users where to get more information and how to make contact with the client.
+
+![sign up](assets/images/footer.png "sign up")
 
 # Technolohgies used
 - [HTML5](https://html.spec.whatwg.org/)
@@ -91,17 +105,17 @@ Navigation
 # Testing
 Testing user stories
 - The website is easy to naviate and naviation menu, about us section and sign up form are easily to read and follow
-- The Sign up form is interactive. It requires users to fill in username, email and password details
+- The Sign up form is interactive. It requires users to fill in username, email and password details.
 - The form will redicrect to an external page when sign up button is clicked which will confirm users have signed up.
 - When the menu items are selected it brings users to the relevant seciton of the site.
 
 ## Responsivness
-- The website was tested on different browsers such as Google chrome, firefox 
+- The website was tested on different browsers such as Google chrome, firefox.
 -  The site [Am i responsive](https://ui.dev/amiresponsive) was used to test the repsonsiveness of the website.
 -  Responsivness of the site was also tested by [Google chrome dev tools](https://developer.chrome.com/docs/devtools/). This allowed us to check the sizes of different screens using various screen sizes such as small, medium, large phone screens and laptop sized screens.
 
  A11y Color Contrast Accessibility Checker
- - Colour contrast tests were carried out across the website and all came back without issue as shown here [Ally Color Contrast Accessiblty Checker](https://color.a11y.com/Contrast/)
+ - Colour contrast tests were carried out across the website and all came back without issue as shown here [Ally Color Contrast Accessiblty Checker](https://color.a11y.com/Contrast/).
 
 # Bugs
 
@@ -120,9 +134,9 @@ During the validation the following bugs occured.
 
 # Deployment
 The site was deployed to Github pages
-- Navitgate to the settings tab of the Github repository via [Github repository](https://github.com/adrianleung5/Leung-Wellness)
-- Select pages tab on the left side of the page under code and automation
-- Under source, select "deploy from a branch" and then click ‘save’
+- Navitgate to the settings tab of the Github repository via [Github repository](https://github.com/adrianleung5/Leung-Wellness).
+- Select pages tab on the left side of the page under code and automation.
+- Under source, select "deploy from a branch" and then click ‘save’.
 - Page will refresh, Return to the repository page and you will a "github-pages active" icon under enviornment on the right side of the page.
 ![How to deploy](assets/images/deployment.png "How to deploy")
 
@@ -134,9 +148,9 @@ The site was deployed to Github pages
 - Log into Github and go to the repository.Click on the ‘code’ tab beside the gitpod button.
 - Select the clipboard icon
 - In your IED open GitBash
-- Change the current working directory to the location you want the cloned directory to be made
-- Type ‘git clone’ and then paste the URL copied from GitHub
-- press enter and the local clone will be created
+- Change the current working directory to the location you want the cloned directory to be made.
+- Type ‘git clone’ and then paste the URL copied from GitHub.
+- press enter and the local clone will be created.
 ![How to create local clone](assets/images/clone.png "How to create local clone")
 
 # Credits
