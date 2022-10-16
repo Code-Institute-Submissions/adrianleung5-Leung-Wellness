@@ -117,7 +117,7 @@ Testing user stories
 ## Responsivness
 - The website was tested on different browsers such as Google chrome, firefox.
 -  The site [Am i responsive](https://ui.dev/amiresponsive) was used to test the repsonsiveness of the website.
--  Responsivness of the site was also tested by [Google chrome dev tools](https://developer.chrome.com/docs/devtools/). This allowed us to check the sizes of different screens using various screen sizes such as small, medium, large phone screens and laptop sized screens.
+-  Responsivness of the site was also tested by [Google chrome dev tools](https://developer.chrome.com/docs/devtools/). Google chrome dev tools tested for different screen sizes such such as small, medium, large phones and different sized laptops.
 
 # A11y Color Contrast Accessibility Checker
  - Colour contrast tests were carried out across the website and all came back without issue as shown here [Ally Color Contrast Accessiblty 
@@ -184,7 +184,7 @@ The site was deployed to Github pages
 - The styling of the sign up form was inspired by [Sitepoint.com](https://www.sitepoint.com/community/t/translate-x-but-no-scroll-wanted/372432)
 - The code for resonsive element of the contact us section was inspired from. [tutorialspoint.com](https://www.tutorialspoint.com/html/html_email_links.htm)
 - The code applied for the script was taken from [W3schools.com](https://www.w3schools.com/tags/att_script_crossorigin.asp#:~:text=Definition%20and%20Usage&text=A%20cross%2Dorigin%20request%20is,to%20manage%20cross%2Dorigin%20requests.)
-- 
+
 
 
 
