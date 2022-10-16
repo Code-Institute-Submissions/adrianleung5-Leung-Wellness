@@ -49,3 +49,12 @@ Navigation
 - The navigation links on the top right corner consists of About us, class info and Sign up. These all link to different sections of the page
 - The font style for this website was inspired from [here](https://www.fontpair.co/all)
 - The naviation clearly illiustrates the clients logo and the different sections of the website
+
+## About us Section
+- The about section gives us a brief explanation of what the hub offers its members. It means the cost of membership and provides a contact email address.
+- The about us section shows users what classes and services area abailable to memmbers in a list. - The design of the list of availble classes with the tick boxes was taken from [Toptal.com](https://www.toptal.com/designers/htmlarrows/symbols/heavy-check-mark
+
+## Sign up form
+- The form in the sign-up area asks users for information so they can subscribe to the Wellness hub. Once the fill in the relevant information they may enter their details to the client by pressing the "join now button"
+- The form requires users to create a username, enter their email and to create a password. Users may not be able to select the join now button unless these fields are filled
+- Once the user selects clicks the sign up button they will be redirected to an external page which informs them that they have signed up for membership.
