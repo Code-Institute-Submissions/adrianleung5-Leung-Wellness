@@ -61,7 +61,7 @@ The color scheme used on this website was based from the hero image. [Coolors.co
 # Features
 Navigation
 - At the top of the page , the client logo is dsplayed in the top left corner as "Leung Wellness". This links to the top of the page
-- The navigation links on the top right corner consists of About us, class info and Sign up. These all link to different sections of the page
+- The navigation links on the top right corner consists of About us, class info and Sign up. These are link to different sections of the page
 - The font style for this website was inspired from [here](https://www.fontpair.co/all)
 - The naviation clearly illiustrates the clients logo and the different sections of the website
 
@@ -71,7 +71,8 @@ Navigation
 - The text block illistates the purpose of the website by stating that it is a virtual wellnesshub based in Dublin
 - The textblock contains a button which is linked to the sign up form section of the website.
 - The button on the text block will also change to baby pink when the button is hovered on.
-- The Text block is positoned over a section of the hero image.
+- The text block is positoned over a section of the hero image.
+- When the button is clicked it will redirect the user to the sign up section of the page.
 
 ![text block and hero image](assets/images/textblock_background.png "text block and hero image")
 
@@ -92,6 +93,7 @@ Navigation
 # The contact section
 - The contact Section provides social media icons to enable website users to locate the clients social media pages.
 - The contact us section is essential as it clearly illustrates to the website users where to get more information and how to make contact with the client.
+- When "contact us" section is clicked the user will be directed to an email address
 
 ![sign up](assets/images/footer.png "sign up")
 
@@ -123,6 +125,18 @@ Testing user stories
  - Colour contrast tests were carried out across the website and all came back without issue as shown here [Ally Color Contrast Accessiblty 
  
  ![color checker](assets/images/color-checker.png "color checker")
+
+# Validator Testing
+
+## HTML
+- No errors were found when passing through the offical W3c validator
+
+![color checker](assets/images/html_validator.png "color checker")
+
+## CSS
+- No errors were found when passing through the official (jigsaw) validator
+
+![color checker](assets/images/css_validator.png "color checker")
 
 # Bugs
 
