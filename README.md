@@ -50,8 +50,13 @@ Sport people, fitness enthuasists, mental health , people working from home, peo
 Leung Wellness is a 1 page website with three. The home page is the default loading page. the other pages are accessible from the navigation menu at all times.
 
 # Typography
-- The two fonts used were imported into the css from google fonts. The font style was taken from 
+The two fonts used were imported into the css from google fonts. The font style was taken from 
 [here](https://www.fontpair.co/all). This site identified the two fonts Merriweather and working sans as two complimentry fonts. 
+
+# Color scheme
+The color scheme used on this website was based from the hero image. [Coolors.co](https://coolors.co/) was used to identify the colors asoosicated with the hero image. Coolors.co identified the color black shadows and baby pink as some of the colors associated with the hero image. The color white was used to provide color contrast to the site. In this website these colors for the text block , sign up form and the hover feartures. The selection of colors associated with the hero image can be seen below.
+
+![color](assets/images/colors.png "color")
 
 # Features
 Navigation

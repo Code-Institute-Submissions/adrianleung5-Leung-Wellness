@@ -73,7 +73,6 @@ a {
 }
 
 /* hero image */
-
 .container {
     position: relative;
     display: inline-block;
@@ -86,10 +85,7 @@ a {
 
 }
 
-
-
 /* Text box in hero image */
-
 .text-block {
     position: absolute;
     top: 34%;
@@ -102,7 +98,6 @@ a {
     border: 2px solid black;
 
 }
-
 .button1 {
     padding: 5%;
     text-align: center;
@@ -114,13 +109,11 @@ a {
 
 
 }
-
 .button1:hover {
-    background-color: #dfc6c1;
+    background-color: #E0BEB5;
 }
 
 /* About us Section */
-
 .image1 {
     width: 100%;
     height: auto;
@@ -243,7 +236,7 @@ a {
 .footer {
     width: 100%;
     background-color: white;
-    /*Changed footer color to white*/
+/*Changed footer color to white*/
     color: black;
     text-align: center;
     font-family: Merriweather;
