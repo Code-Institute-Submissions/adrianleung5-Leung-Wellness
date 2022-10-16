@@ -22,19 +22,19 @@ The website aims to promote Leungs wellness hub as an a easy way for people to l
 - Links to the clients various social media to enable visitors to find more information
 - A bried explanation of the different types of classes on available to members
 
-## Target Audience
+# Target Audience
 Sport people, fitness enthuasists, mental health , people working from home, people from all age groups, parents.
 
-## UX user Experience
-First Time Visitor Goals
+# UX user Experience
+## First Time Visitor Goals
 -  As a first-time visitor, I would like to understand the website's objective and understand to obtain further information as simply as possible. 
 - As a first time visitor, I would like to be able to navigate through the website easily and without any problems.
 
-Returning User Goals
+## Returning User Goals
 - As a returning customer, I would like to find out more information about the classes and prices.
 - As a returning customer, I would like to be able to navigate the website on various different platforms without any issues.
 
-Frequent User Goals
+## Frequent User Goals
 - As a frequent user, I would like to see if there are new classes available on the website
 - As a frequent user, I would like to see if there is any changes in prices or any new membership options.
 
@@ -43,39 +43,39 @@ Frequent User Goals
 - The about us section of the webisite was inspired by [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
 - The sign up and footer section of the website was inspired by  [Codes Coders Coffeehouse](https://codeinstitute.net/ie/)
 
-## Site Structure
+# Site Structure
 Leung Wellness is a 1 page website with three. The home page is the default loading page. the other pages are accessible from the navigation menu at all times.
 
-## Typography
+# Typography
 - The two fonts used were imported into the css from google fonts. The font style was taken from 
 [here](https://www.fontpair.co/all). This site identified the two fonts Merriweather and working sans as two complimentry fonts. 
 
-## Features
+# Features
 Navigation
 - At the top of the page , the client logo is dsplayed in the top left corner as "Leung Wellness". This links to the top of the page
 - The navigation links on the top right corner consists of About us, class info and Sign up. These all link to different sections of the page
 - The font style for this website was inspired from [here](https://www.fontpair.co/all)
 - The naviation clearly illiustrates the clients logo and the different sections of the website
 
-## Text block
+# Text block
 - The text block illistates the purpose of the website by stating that it is a virtual wellnesshub based in Dublin
 - The textblock contains a button which is linked to the sign up form section of the website.
 - The button on the text block will also change to 
 
-## About us Section
+# About us Section
 - The about section gives us a brief explanation of what the hub offers its members. It means the cost of membership and provides a contact email address.
-- The about us section shows users what classes and services area abailable to memmbers in a list. - The design of the list of availble classes with the tick boxes was taken from [Toptal.com](https://www.toptal.com/designers/htmlarrows/symbols/heavy-check-mark)
+- The about us section shows users what classes and services area abailable to memmbers in a list. - The design of the list of availble classes with the tick boxes was   taken from [Toptal.com](https://www.toptal.com/designers/htmlarrows/symbols/heavy-check-mark)
 
-## Sign up form
+# Sign up form
 - The form in the sign-up area asks users for information so they can subscribe to the Wellness hub. Once the fill in the relevant information they may enter their details to the client by pressing the "join now button"
 - The form requires users to create a username, enter their email and to create a password. Users may not be able to select the join now button unless these fields are filled
 - Once the user selects clicks the sign up button they will be redirected to an external page which informs them that they have signed up for membership.
 
-## The contact section
+# The contact section
 - The contact Section provides social media icons to enable website users to locate the clients social media pages
 - The contact us section is essential as it clearly illustrates to the website users where to get more information and how to make contact with the client.
 
-##  Technolohgies used
+# Technolohgies used
 - [HTML5](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [Gitpod](https://www.gitpod.io/)
@@ -102,8 +102,9 @@ Testing user stories
  A11y Color Contrast Accessibility Checker
  - Colour contrast tests were carried out across the website and all came back without issue as shown here [Ally Color Contrast Accessiblty Checker](https://color.a11y.com/Contrast/)
 
-## Bugs
-Resolved bugs
+# Bugs
+
+## Resolved bugs
 
 During the validation the following bugs occured.
 
@@ -113,10 +114,10 @@ During the validation the following bugs occured.
 - Error 1 was resolved by moving the script below the head tag.
 - Error 5 was fixed by changing the section to a div.
 
-Unresolved bugs
+## Unresolved bugs
 - No unfixed bugs
 
-## Deployment
+# Deployment
 The site was deployed to Github pages
 - Navitgate to the settings tab of the Github repository via [Github repository](https://github.com/adrianleung5/Leung-Wellness)
 - Select pages tab on the left side of the page under code and automation
@@ -124,11 +125,11 @@ The site was deployed to Github pages
 - Page will refresh, Return to the repository page and you will a "github-pages active" icon under enviornment on the right side of the page.
 ![How to deploy](assets/images/deployment.png "How to deploy")
 
-## To Fork the Repository
+# To Fork the Repository
 - Go into Github and select the fork icon on the top right.
 ![How to create Fork](assets/images/fork.png "How to create Fork")
 
-## Create a local clone
+# Create a local clone
 - Log into Github and go to the repository.Click on the ‘code’ tab beside the gitpod button.
 - Select the clipboard icon
 - In your IED open GitBash
@@ -137,8 +138,8 @@ The site was deployed to Github pages
 - press enter and the local clone will be created
 ![How to create local clone](assets/images/clone.png "How to create local clone")
 
-## Credits
-Content
+# Credits
+## Content
 - The navigation aspect of the website was inspured by [ALO moves.com](https://www.alomoves.com/)
 - The about us section of the webisite was inspired by [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
 - The content for the About us section was taken [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
@@ -147,11 +148,11 @@ Content
 - Inspiration for the README.md came from [Tasha Johnsons repoistory](https://github.com/TashaTJ/pawsome-portraits-v4#technologies-used)
 - Icons from footer taken from [Font Awesome ](https://fontawesome.com/)
 
-Media
+## Media
 - All photos taken from [Unsplashed](https://unsplash.com/)
 -  The social media icons was taken from [Font Awesome ](https://fontawesome.com/)
 
-Code 
+## Code 
 - I found a lot of useful tutorials online. I occasionally applied principles from them to the site after thoroughly understanding their code and modifying it to meet the needs of the site.
 
 - I found [Kevin Powell channel](https://www.youtube.com/kevinpowell) and [W3schools.com](https://www.w3schools.com/) really insightful in helping me understand and manipulate code to suit the site.
