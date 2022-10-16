@@ -2,7 +2,7 @@
 [view the live project here](https://adrianleung5.github.io/Leung-Wellness/)
 
 ## Repository
-(https://github.com/adrianleung5/Leung-Wellness)
+https://github.com/adrianleung5/Leung-Wellness
 
 Leung Wellness serves as an online escape route from everyday stress. The webste serves to enable
 like-minded people to relax and invest into their own wellness from the comfort of their own home. The website is open to everyone,from a complete beginer to a experienced practioner and enables them to gain access to various onlne classes through memberships.
@@ -119,8 +119,10 @@ Testing user stories
 -  The site [Am i responsive](https://ui.dev/amiresponsive) was used to test the repsonsiveness of the website.
 -  Responsivness of the site was also tested by [Google chrome dev tools](https://developer.chrome.com/docs/devtools/). This allowed us to check the sizes of different screens using various screen sizes such as small, medium, large phone screens and laptop sized screens.
 
- A11y Color Contrast Accessibility Checker
- - Colour contrast tests were carried out across the website and all came back without issue as shown here [Ally Color Contrast Accessiblty Checker](https://color.a11y.com/Contrast/).
+# A11y Color Contrast Accessibility Checker
+ - Colour contrast tests were carried out across the website and all came back without issue as shown here [Ally Color Contrast Accessiblty 
+ 
+ ![color checker](assets/images/color-checker.png "color checker")
 
 # Bugs
 
@@ -178,8 +180,11 @@ The site was deployed to Github pages
 - I found [Kevin Powell channel](https://www.youtube.com/kevinpowell) and [W3schools.com](https://www.w3schools.com/) really insightful in helping me understand and manipulate code to suit the site.
 - Aspects of the sign up and footer section of the website was inspired by  [Codes Coders Coffeehouse](https://codeinstitute.net/ie/)
 - The code of the list of availble classes in the about us section with the tick boxes was taken from [Toptal.com](https://www.toptal.com/designers/htmlarrows/symbols/heavy-check-mark)
-- The navigation aspect of the website was inspured by [ALO moves.com](https://www.alomoves.com/)
-- The about us section of the webisite was inspired by [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
 - The naviation links for the different section of the website was inspired from [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/08-responsive-elements/02-responsive-header)
+- The styling of the sign up form was inspired by [Sitepoint.com](https://www.sitepoint.com/community/t/translate-x-but-no-scroll-wanted/372432)
+- The code for resonsive element of the contact us section was inspired from. [tutorialspoint.com](https://www.tutorialspoint.com/html/html_email_links.htm)
+- The code applied for the script was taken from [W3schools.com](https://www.w3schools.com/tags/att_script_crossorigin.asp#:~:text=Definition%20and%20Usage&text=A%20cross%2Dorigin%20request%20is,to%20manage%20cross%2Dorigin%20requests.)
+- 
+
 
 
