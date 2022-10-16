@@ -46,12 +46,22 @@ Frequent User Goals
 ## Site Structure
 Leung Wellness is a 1 page website with three. The home page is the default loading page. the other pages are accessible from the navigation menu at all times.
 
+## Typography
+- The two fonts used were imported into the css from google fonts. The font style was taken from 
+[here](https://www.fontpair.co/all). This site identified the two fonts Merriweather and working sans as two complimentry fonts. 
+
 ## Features
 Navigation
 - At the top of the page , the client logo is dsplayed in the top left corner as "Leung Wellness". This links to the top of the page
 - The navigation links on the top right corner consists of About us, class info and Sign up. These all link to different sections of the page
 - The font style for this website was inspired from [here](https://www.fontpair.co/all)
 - The naviation clearly illiustrates the clients logo and the different sections of the website
+
+## Text block
+- The text block illistates the purpose of the website by stating that it is a virtual wellnesshub based in Dublin
+- The textblock contains a button which is linked to the sign up form section of the website.
+- The button on the text block will also change to 
+
 
 ## About us Section
 - The about section gives us a brief explanation of what the hub offers its members. It means the cost of membership and provides a contact email address.
@@ -78,5 +88,32 @@ Navigation
 - [Coolors.co](https://coolors.co/)
 - [Unsplashed](https://unsplash.com/)
 
+## Testing
+Testing user stories
+- The website is easy to naviate and naviation menu, about us section and sign up form are easily to read and follow
+- The Sign up form is interactive. It requires users to fill in username, email and password details
+- The form will redicrect to an external page when sign up button is clicked which will confirm users have signed up.
+- When the menu items are selected it brings users to the relevant seciton of the site.
+
+Responsivness
+- The website was tested on different browsers such as Google chrome, firefox 
+-  The site [Am i responsive](https://ui.dev/amiresponsive) was used to test the repsonsiveness of the website.
+-  Responsivness of the site was also tested by [Google chrome dev tools](https://developer.chrome.com/docs/devtools/). This allowed us to check the sizes of different screens using various screen sizes such as small, medium, large phone screens and laptop sized screens.
+
+ A11y Color Contrast Accessibility Checker
+ - Colour contrast tests were carried out across the website and all came back without issue as shown here [Ally Color Contrast Accessiblty Checker](https://color.a11y.com/Contrast/)
+
+
 ## Bugs
-![html errors](assets/images/html-errors.png "MarineGEO logo")
+Resolved bugs
+
+During the validation the following bugs occured.
+
+![html errors](assets/images/html-errors.png "HTML errors")
+
+- Errors 2-5 were resolved were resolved by removing the closing tag from the input element from the form.
+- Error 1 was resolved by moving the script below the head tag.
+- Error 5 was fixed by changing the section to a div.
+
+Unresolved bugs
+- No unfixed bugs
