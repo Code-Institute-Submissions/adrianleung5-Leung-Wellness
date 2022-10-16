@@ -77,3 +77,6 @@ Navigation
 - [Am i responsive](https://ui.dev/amiresponsive)
 - [Coolors.co](https://coolors.co/)
 - [Unsplashed](https://unsplash.com/)
+
+## Bugs
+![html errors](assets/images/html-errors.png "MarineGEO logo")
