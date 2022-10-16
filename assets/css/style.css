@@ -12,15 +12,13 @@ body {
     color: #3a3a3a;
 }
 
-html,
-body {
+html, body {
     overflow-x: hidden;
 }
 
 /* headings and logo */
 
-h1,
-h2 {
+h1,h2 {
     font-family: Merriweather, "work sans";
     text-transform: uppercase;
     letter-spacing: 0.25rem;
@@ -47,11 +45,10 @@ a {
 }
 
 
-#menu,
-#logo {
+#menu,#logo {
     line-height: 75px;
-
 }
+
 
 #menu li {
     float: right;
@@ -93,12 +90,13 @@ a {
 .text-block {
     position: absolute;
     top: 34%;
-    background-color: white;
+    background-color: #CEBFC2;
     padding: 2.5%;
     border-radius: 6%;
     width: 25%;
     left: 2.5%;
     text-align: center;
+    border: 2px solid black;
 
 }
 
@@ -163,7 +161,6 @@ a {
     padding-top: 1.5%;
     line-height: 190%;
     font-weight: bold;
-
 }
 
 .paragraph1 li {
@@ -218,7 +215,6 @@ a {
     transition: all 0.3s ease;
 }
 
-
 /*  Sign Up Button */
 .signup-btn {
     background: #52527a;
@@ -249,6 +245,9 @@ a {
     text-align: center;
     font-family: Merriweather;
     font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
 }
 
 .footer a {
@@ -259,14 +258,15 @@ a {
 .contact-us {
     font-size: 30px;
     text-align: center;
+    padding-bottom: 10px;
 }
 
 .contact-us a {
     color: black;
 }
 
-/* Responsivness for large screens*/
-@media screen and (max-width: 1200px) {
+/*Responsiveness for 4K Screen*/
+@media screen and (max-width: 2560px) {
 
     .image1 {
         height: 687px;
@@ -283,7 +283,43 @@ a {
     }
 
     .paragraph1 {
-        Line-height: 140%;
+        Line-height: 180%;
+        font-size: 1.5rem;
+        padding: 7px;
+    }
+
+    .paragraph1 li {
+        Line-height: 250%;
+    }
+
+    .heading1 {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+
+
+}
+
+/* Responsivness for large screens*/
+@media screen and (max-width: 1680px) {
+
+    .image1 {
+        height: 687px;
+    }
+
+    .column1 {
+        width: 50%;
+    }
+
+    .column2 {
+        float: unset;
+        width: 100%;
+        padding: unset;
+    }
+
+    .paragraph1 {
+        Line-height: 275%;
         font-size: 1.1rem;
         padding: 7px;
     }
@@ -295,14 +331,83 @@ a {
 
 }
 
+/*Responsiveness for Large Laptop Screen*/
+@media screen and (max-width: 1440px) {
 
+    .image1 {
+        height: 687px;
+    }
+
+    .column1 {
+        width: 50%;
+    }
+
+    .column2 {
+        float: unset;
+        width: 100%;
+        padding: unset;
+    }
+
+    .paragraph1 {
+        Line-height: 130%;
+        font-size: 1.55rem;
+        padding: 7px;
+    }
+
+    .paragraph1 li {
+        Line-height: 160%;
+    }
+
+    .heading1 {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+
+
+}
+
+/*Responsiveness for Medium Laptop Screen*/
+@media screen and (max-width: 1024px) {
+
+    .image1 {
+        height: 687px;
+    }
+
+    .column1 {
+        width: 50%;
+    }
+
+    .column2 {
+        float: unset;
+        width: 100%;
+        padding: unset;
+    }
+
+    .paragraph1 {
+        Line-height: 110%;
+        font-size: 1.4rem;
+        padding: 7px;
+    }
+
+    .paragraph1 li {
+        Line-height: 160%;
+    }
+
+    .heading1 {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+
+
+}
 
 /* Responsivness for tablets and medium sized screens*/
 @media screen and (max-width: 768px) {
 
     .image1 {
         height: 687px;
-
     }
 
     .column1 {
@@ -323,6 +428,7 @@ a {
 
     .heading1 {
         padding-top: 10px;
+        font-size: 20px;
     }
 
     /*fix sign up form*/
@@ -332,6 +438,10 @@ a {
 
     .signup-btn {
         width: 30%;
+    }
+
+    .text-block {
+        top: 12%;
     }
 
 }
@@ -364,7 +474,7 @@ a {
     /* Responsivness for text box */
     .text-block {
         position: unset;
-        width: 100%;
+        width: 93%;
     }
 
     .button1 {

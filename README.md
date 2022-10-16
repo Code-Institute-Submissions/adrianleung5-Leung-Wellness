@@ -62,7 +62,6 @@ Navigation
 - The textblock contains a button which is linked to the sign up form section of the website.
 - The button on the text block will also change to 
 
-
 ## About us Section
 - The about section gives us a brief explanation of what the hub offers its members. It means the cost of membership and provides a contact email address.
 - The about us section shows users what classes and services area abailable to memmbers in a list. - The design of the list of availble classes with the tick boxes was taken from [Toptal.com](https://www.toptal.com/designers/htmlarrows/symbols/heavy-check-mark)
@@ -103,7 +102,6 @@ Responsivness
  A11y Color Contrast Accessibility Checker
  - Colour contrast tests were carried out across the website and all came back without issue as shown here [Ally Color Contrast Accessiblty Checker](https://color.a11y.com/Contrast/)
 
-
 ## Bugs
 Resolved bugs
 
@@ -126,12 +124,9 @@ The site was deployed to Github pages
 - Page will refresh, Return to the repository page and you will a "github-pages active" icon under enviornment on the right side of the page.
 ![How to deploy](assets/images/deployment.png "How to deploy")
 
-
 ## To Fork the Repository
 - Go into Github and select the fork icon on the top right.
 ![How to create Fork](assets/images/fork.png "How to create Fork")
-
-
 
 ## Create a local clone
 - Log into Github and go to the repository.Click on the ‘code’ tab beside the gitpod button.
@@ -141,3 +136,29 @@ The site was deployed to Github pages
 - Type ‘git clone’ and then paste the URL copied from GitHub
 - press enter and the local clone will be created
 ![How to create local clone](assets/images/clone.png "How to create local clone")
+
+## Credits
+Content
+- The navigation aspect of the website was inspured by [ALO moves.com](https://www.alomoves.com/)
+- The about us section of the webisite was inspired by [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
+- The content for the About us section was taken [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
+- The content in the textbox wask taken from [ALO moves.com](https://www.alomoves.com/)
+- The sign up and footer section of the website was inspired by  [Codes Coders Coffeehouse](https://codeinstitute.net/ie/)
+- Inspiration for the README.md came from [Tasha Johnsons repoistory](https://github.com/TashaTJ/pawsome-portraits-v4#technologies-used)
+- Icons from footer taken from [Font Awesome ](https://fontawesome.com/)
+
+Media
+- All photos taken from [Unsplashed](https://unsplash.com/)
+-  The social media icons was taken from [Font Awesome ](https://fontawesome.com/)
+
+Code 
+- I found a lot of useful tutorials online. I occasionally applied principles from them to the site after thoroughly understanding their code and modifying it to meet the needs of the site.
+
+- I found [Kevin Powell channel](https://www.youtube.com/kevinpowell) and [W3schools.com](https://www.w3schools.com/) really insightful in helping me understand and manipulate code to suit the site.
+- Aspects of the sign up and footer section of the website was inspired by  [Codes Coders Coffeehouse](https://codeinstitute.net/ie/)
+- The code of the list of availble classes in the about us section with the tick boxes was taken from [Toptal.com](https://www.toptal.com/designers/htmlarrows/symbols/heavy-check-mark)
+- The navigation aspect of the website was inspured by [ALO moves.com](https://www.alomoves.com/)
+- The about us section of the webisite was inspired by [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
+- The naviation links for the different section of the website was inspired from [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/08-responsive-elements/02-responsive-header)
+
+
