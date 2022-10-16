@@ -1,6 +1,9 @@
 # Leung Wellness Hub
 [view the live project here](https://adrianleung5.github.io/Leung-Wellness/)
 
+## Repository
+(https://github.com/adrianleung5/Leung-Wellness)
+
 Leung Wellness serves as an online escape route from everyday stress. The webste serves to enable
 like-minded people to relax and invest into their own wellness from the comfort of their own home. The website is open to everyone,from a complete beginer to a experienced practioner and enables them to gain access to various onlne classes through memberships.
 
@@ -52,9 +55,24 @@ Navigation
 
 ## About us Section
 - The about section gives us a brief explanation of what the hub offers its members. It means the cost of membership and provides a contact email address.
-- The about us section shows users what classes and services area abailable to memmbers in a list. - The design of the list of availble classes with the tick boxes was taken from [Toptal.com](https://www.toptal.com/designers/htmlarrows/symbols/heavy-check-mark
+- The about us section shows users what classes and services area abailable to memmbers in a list. - The design of the list of availble classes with the tick boxes was taken from [Toptal.com](https://www.toptal.com/designers/htmlarrows/symbols/heavy-check-mark)
 
 ## Sign up form
 - The form in the sign-up area asks users for information so they can subscribe to the Wellness hub. Once the fill in the relevant information they may enter their details to the client by pressing the "join now button"
 - The form requires users to create a username, enter their email and to create a password. Users may not be able to select the join now button unless these fields are filled
 - Once the user selects clicks the sign up button they will be redirected to an external page which informs them that they have signed up for membership.
+
+## The contact section
+- The contact Section provides social media icons to enable website users to locate the clients social media pages
+- The contact us section is essential as it clearly illustrates to the website users where to get more information and how to make contact with the client.
+
+##  Technolohgies used
+- [HTML5](https://html.spec.whatwg.org/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [Gitpod](https://www.gitpod.io/)
+- [Github](https://github.com/)
+- [Google Fonts](https://github.com/TashaTJ/pawsome-portraits-v4#technologies-used)
+- [Font Awesome ](https://fontawesome.com/)
+- [Google chrome dev tools](https://developer.chrome.com/docs/devtools/)
+- [Am i responsive](https://ui.dev/amiresponsive)
+- [Coolors.co](https://coolors.co/)
