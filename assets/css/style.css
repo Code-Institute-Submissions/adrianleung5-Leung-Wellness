@@ -44,6 +44,9 @@ a {
 
 }
 
+.text-align {
+    text-align: center;
+}
 
 #menu,#logo {
     line-height: 75px;
@@ -300,7 +303,40 @@ a {
 
 
 }
+@media screen and (max-width: 1920px) {
 
+    .image1 {
+        height: 687px;
+    }
+
+    .column1 {
+        width: 50%;
+    }
+
+    .column2 {
+        float: unset;
+        width: 100%;
+        padding: unset;
+    }
+
+    .paragraph1 {
+        Line-height: 180%;
+        font-size: 1.4rem;
+        padding: 7px;
+    }
+
+    .paragraph1 li {
+        Line-height: 225%;
+    }
+
+    .heading1 {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+
+
+}
 /* Responsivness for large screens*/
 @media screen and (max-width: 1680px) {
 

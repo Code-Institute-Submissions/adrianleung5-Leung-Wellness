@@ -87,14 +87,14 @@ Navigation
 - [Coolors.co](https://coolors.co/)
 - [Unsplashed](https://unsplash.com/)
 
-## Testing
+# Testing
 Testing user stories
 - The website is easy to naviate and naviation menu, about us section and sign up form are easily to read and follow
 - The Sign up form is interactive. It requires users to fill in username, email and password details
 - The form will redicrect to an external page when sign up button is clicked which will confirm users have signed up.
 - When the menu items are selected it brings users to the relevant seciton of the site.
 
-Responsivness
+## Responsivness
 - The website was tested on different browsers such as Google chrome, firefox 
 -  The site [Am i responsive](https://ui.dev/amiresponsive) was used to test the repsonsiveness of the website.
 -  Responsivness of the site was also tested by [Google chrome dev tools](https://developer.chrome.com/docs/devtools/). This allowed us to check the sizes of different screens using various screen sizes such as small, medium, large phone screens and laptop sized screens.
