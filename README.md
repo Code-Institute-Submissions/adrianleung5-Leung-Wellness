@@ -6,6 +6,7 @@
 
 Leung Wellness serves as an online escape route from everyday stress. The webste serves to enable
 like-minded people to relax and invest into their own wellness from the comfort of their own home. The website is open to everyone,from a complete beginer to a experienced practioner and enables them to gain access to various onlne classes through memberships.
+![Responsive](assets/images/responsive.png "Responsive")
 
 ## Key Project Goals
 - To demonstrate key skills that i have obatined over the course
