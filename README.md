@@ -54,7 +54,8 @@ The two fonts used were imported into the css from google fonts. The font style 
 [here](https://www.fontpair.co/all). This site identified the two fonts Merriweather and working sans as two complimentry fonts. 
 
 # Color scheme
-The color scheme used on this website was based from the hero image. [Coolors.co](https://coolors.co/) was used to identify the colors asoosicated with the hero image. Coolors.co identified the color black shadows and baby pink as some of the colors associated with the hero image. The color white was used to provide color contrast to the site. In this website these colors for the text block , sign up form and the hover feartures. The selection of colors associated with the hero image can be seen below.
+The color scheme used on this website was based on the hero image. [Coolors.co](https://coolors.co/) was used to identify the colors asoosicated with the hero image. Coolors.co identified the color black shadows as one of the colors associated with the hero image. This color was used to style the sign up section and the text block.
+ and the color white was used to provide color contrast to the site. The colors for the buttons and hover effect was inspired by the selection of colors identified by Coolors.co.
 
 ![color](assets/images/colors.png "color")
 
@@ -197,7 +198,8 @@ The site was deployed to Github pages
 - The naviation links for the different section of the website was inspired from [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/08-responsive-elements/02-responsive-header)
 - The styling of the sign up form was inspired by [Sitepoint.com](https://www.sitepoint.com/community/t/translate-x-but-no-scroll-wanted/372432)
 - The code for resonsive element of the contact us section was inspired from. [tutorialspoint.com](https://www.tutorialspoint.com/html/html_email_links.htm)
-- The code applied for the script was taken from [W3schools.com](https://www.w3schools.com/tags/att_script_crossorigin.asp#:~:text=Definition%20and%20Usage&text=A%20cross%2Dorigin%20request%20is,to%20manage%20cross%2Dorigin%20requests.)
+- The code applied for the script was taken from [W3schools.com](https://www.w3schooThels.com/tags/att_script_crossorigin.asp#:~:text=Definition%20and%20Usage&text=A%20cross%2Dorigin%20request%20is,to%20manage%20cross%2Dorigin%20requests.)
+-  The code for media query was taken from [FreeCodeCamp](https://www.freecodecamp.org/news/media-queries-width-ranges/)
 
 
 
