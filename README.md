@@ -200,7 +200,3 @@ The site was deployed to Github pages
 - The code for resonsive element of the contact us section was inspired from. [tutorialspoint.com](https://www.tutorialspoint.com/html/html_email_links.htm)
 - The code applied for the script was taken from [W3schools.com](https://www.w3schooThels.com/tags/att_script_crossorigin.asp#:~:text=Definition%20and%20Usage&text=A%20cross%2Dorigin%20request%20is,to%20manage%20cross%2Dorigin%20requests.)
 -  The code for media query was taken from [FreeCodeCamp](https://www.freecodecamp.org/news/media-queries-width-ranges/)
-
-
-
-
