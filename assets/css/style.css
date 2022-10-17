@@ -432,6 +432,49 @@ a {
 
 }
 
+/* Responsivness for Ipad */
+@media screen and (max-width: 810px) {
+
+    .image1 {
+        height: 687px;
+    }
+
+    .column1 {
+        width: 50%;
+    }
+
+    .column2 {
+        float: unset;
+        width: 100%;
+        padding: unset;
+    }
+
+    .paragraph1 {
+        Line-height: 140%;
+        font-size: 1.1rem;
+        padding: 7px;
+    }
+
+    .heading1 {
+        padding-top: 10px;
+        font-size: 20px;
+    }
+
+    /*fix sign up form*/
+    .signup__input {
+        width: 30%;
+    }
+
+    .signup-btn {
+        width: 30%;
+    }
+
+    .text-block {
+        top: 12%;
+    }
+
+}
+
 /* Responsivness for tablets and medium sized screens*/
 @media screen and (max-width: 768px) {
 
@@ -536,7 +579,7 @@ a {
     }
 
     .image1 {
-        height: 260px;
+        height: 580px;
     }
 
     /*fix sign up form*/

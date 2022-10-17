@@ -16,7 +16,7 @@ like-minded people to relax and invest into their own wellness from the comfort 
 - To create a website for a client aiming to attract users to sign up to their page via a sign up form.
 
 ## Brief
-The website aims to promote Leungs wellness hub as an a easy way for people to learn body/mind self-improvement techniques as it is accessible online. The following features were identified by the client as the most significant features needed for their site
+The website aims to promote Leungs wellness hub as a easy way for people to learn body/mind self-improvement techniques as it is accessible online. The following features were identified by the client as the most significant features needed for their site
 
 - A brief and easy to interpret explanation of what the site entails
 - An eye catching design for website with releavent images to wellness
