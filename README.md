@@ -22,7 +22,7 @@ The website aims to promote Leungs wellness hub as a easy way for people to lear
 - An eye catching design for website with releavent images to wellness
 - A sign up form for users to subscribe and join the virtual wellness hub
 - Links to the clients various social media to enable visitors to find more information
-- A bried explanation of the different types of classes on available to members
+- A brief explanation of the different types of classes on available to members
 
 # Target Audience
 Sport people, fitness enthuasists, mental health , people working from home, people from all age groups, parents.
@@ -30,7 +30,7 @@ Sport people, fitness enthuasists, mental health , people working from home, peo
 # UX user Experience
 
 ## First Time Visitor Goals
--  As a first-time visitor, I would like to understand the website's objective and understand to obtain further information as simply as possible. 
+-  As a first-time visitor, I would like to understand the website's objective and be able to obtain further information as simply as possible. 
 - As a first time visitor, I would like to be able to navigate through the website easily and without any problems.
 
 ## Returning User Goals
@@ -71,7 +71,7 @@ Navigation
 # Text block
 - The text block illistates the purpose of the website by stating that it is a virtual wellnesshub based in Dublin
 - The textblock contains a button which is linked to the sign up form section of the website.
-- The button on the text block will also change to baby pink when the button is hovered on.
+- The button on the text block will also change color when the button is hovered on.
 - The text block is positoned over a section of the hero image.
 - When the button is clicked it will redirect the user to the sign up section of the page.
 
@@ -88,6 +88,7 @@ Navigation
 - The form in the sign-up area asks users for information so they can subscribe to the Wellness hub. Once the fill in the relevant information they may enter their details to the client by pressing the "join now button".
 - The form requires users to create a username, enter their email and to create a password. Users may not be able to select the join now button unless these fields are filled.
 - Once the user selects clicks the sign up button they will be redirected to an external page which informs them that they have signed up for membership.
+- When the join up button is clicked it will redirect the user to the sign up section of the page.
 
 ![sign up](assets/images/signup.png "sign up")
 
@@ -176,6 +177,7 @@ The site was deployed to Github pages
 ![How to create local clone](assets/images/clone.png "How to create local clone")
 
 # Credits
+
 ## Content
 - The navigation aspect of the website was inspured by [ALO moves.com](https://www.alomoves.com/)
 - The about us section of the webisite was inspired by [Arden Wellness Hub](https://www.ardenwellnesshub.com/about)
