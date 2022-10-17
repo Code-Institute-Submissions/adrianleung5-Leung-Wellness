@@ -1,5 +1,5 @@
-# Leung Wellness Hub
-[view the live project here](https://adrianleung5.github.io/Leung-Wellness/)
+# Leung Wellness
+[view the live project here](https://github.com/adrianleung5/Leung-Wellness/deployments/activity_log?environment=github-pages)
 
 ## Repository
 https://github.com/adrianleung5/Leung-Wellness
