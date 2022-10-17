@@ -396,7 +396,7 @@ a {
 
 }
 
-/*Responsiveness for Medium Laptop Screen*/
+/*Responsiveness for Medium Laptop Screen- code raken from feed code camp.org*/
 @media screen and (max-width: 1024px) {
 
     .image1 {
